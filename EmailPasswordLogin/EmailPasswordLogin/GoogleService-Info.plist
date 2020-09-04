@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>882729134179-o8jg9dofi593shdrrnt2i6gc0cbobnjv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.882729134179-o8jg9dofi593shdrrnt2i6gc0cbobnjv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC53-Jd-rHpmggK7gUmTwaUUj9Ywy9W2hQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>882729134179</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.trunghieudang.EmailPasswordLogin</string>
+	<key>PROJECT_ID</key>
+	<string>emailpaogin-ee943</string>
+	<key>STORAGE_BUCKET</key>
+	<string>emailpaogin-ee943.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:882729134179:ios:bd3636e965a2ebb6fcb056</string>
+	<key>DATABASE_URL</key>
+	<string>https://emailpaogin-ee943.firebaseio.com</string>
+</dict>
+</plist>
